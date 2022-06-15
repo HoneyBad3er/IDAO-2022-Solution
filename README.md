@@ -8,7 +8,7 @@
 # Semi-Final
 
 ## 📋 Task
-![grid img](images/idao_semi-final_1.png)
+![grid img](images/idao_semi-final_1.png)\
 Two-dimensional transition metal dichalcogenides (TMDCs) are relatively new types of materials that have remarkable properties ranging from semiconducting, metallic, magnetic, superconducting to optical. The chemical composition of TMDCs is MX₂; where M is the group of transition elements most popular Molybdenum and Tungsten, and X is usually Sulfur or Selenium. Atomically thin TMDCs usually contain various defects, which enrich the lattice structure and give rise to many intriguing properties. Engineered point defects in two-dimensional (2D) materials offer an attractive platform for solid-state devices that exploit tailored optoelectronic, quantum emission, and resistive properties. Naturally occurring defects are also unavoidably important contributors to material properties and performance. The immense variety and complexity of possible defects make it challenging to experimentally control, probe, or understand atomic-scale defect-property relationships. In the figure above you can find vacancy and substitution defects in an 8x8 MoS₂ crystal lattice.
 
 Band gap is one of the important physical attributes which describe certain characteristics of the material, that helps deriving material qualities including electric conductivity or catalytic power or photo-optical properties. Band gap is the energy difference between the valence band and conduction band and is closely related to the energy difference between highest occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO), materials with overlapping (between valence band and conduction band) or very small band gap are conductors and materials with small bandgap are semiconductors while materials with large bandgap are insulators.
@@ -37,7 +37,7 @@ Energy within Threshold (EwT) is designed to measure the practical usefulness of
 Where N is the number of samples in the dataset indexed by i.
 
 ## 🔨 Solution
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HoneyBad3er/IDAO-2022-Solution/tree/semi-final/semi-final/solution.ipynb)\
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HoneyBad3er/IDAO-2022-Solution/blob/semi-final/semi-final/solution.ipynb)\
 TODO
 
 ## 🏁 [Results](https://idao.world/results/)
