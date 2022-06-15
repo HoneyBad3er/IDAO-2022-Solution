@@ -33,7 +33,7 @@ A sample submission can be found on GitHub.
 
 **Quality Metric**\
 Energy within Threshold (EwT) is designed to measure the practical usefulness of a model for replacing DFT by evaluating whether the predicted energy is close to the ground truth (DFT energy.EwT is defined as the fraction of structures in which the predicted energy is within ϵ=0.02eV (electronvolt) of the ground truth energy.
-![grid img](images/idao_semi-final_2.png)
+![grid img](images/idao_semi-final_2.png)\
 Where N is the number of samples in the dataset indexed by i.
 
 ## 🔨 Solution
